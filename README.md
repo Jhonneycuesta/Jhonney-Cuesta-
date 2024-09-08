@@ -6,3 +6,6 @@ Ingenieria Industrial
 Yuliana Corrales Castaño.
 Cc 39193015. 
 Programa: ingeniería de sistemas
+Yeferson Giraldo López
+CC 1010036207
+Ingeniería Mecánica
