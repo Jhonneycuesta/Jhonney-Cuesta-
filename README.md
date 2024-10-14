@@ -9,3 +9,4 @@ Programa: ingeniería de sistemas
 Yeferson Giraldo López
 CC 1010036207
 Ingeniería Mecánica
+Enlace video: https://youtu.be/pPQyvjQVr0Y
